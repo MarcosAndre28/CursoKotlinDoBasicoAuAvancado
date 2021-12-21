@@ -15,6 +15,8 @@ Lógicos
 
 fun main() {
 
-    
+    var notaProfessor = 5//0-10
+    var notaProvaGeral = 5 //0-10
+    println( notaProfessor > 6 || notaProvaGeral >= 6 )
 
 }
